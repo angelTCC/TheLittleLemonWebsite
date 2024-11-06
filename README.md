@@ -1,4 +1,5 @@
-The overview of the project is:
+# Django Course
+
 
 ## Part 1: Create the menu page
 
