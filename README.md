@@ -1,6 +1,7 @@
 # Django Course
 
 
+
 ## Part 1: Create the menu page
 
 - step 1: create the data in model.py
@@ -177,3 +178,15 @@
     ```
 
 ## Part 3: Create the footer template
+
+```html
+{% load static %}
+<footer>
+  <article>
+        <img src="<Replace with DTL code for adding static image for footer logo>" />
+  </article>
+  <article>
+    <p>Copyright Little Lemon</p>
+  </article>
+</footer>
+```
