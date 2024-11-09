@@ -1,6 +1,14 @@
 # Django Course
+This project uses Django to build a web application and RESTful API 
+for Little Lemon, a local bistro. The web app includes five main 
+pages—Home, About, Booking, Menu, and Menu Item—to engage customers 
+and highlight the restaurant’s offerings. The API allows developers to 
+manage menu items, process orders, and assign delivery staff, with 
+role-based access control. Together, these components enhance Little 
+Lemon’s digital presence and streamline operations for a better 
+customer experience.
 
-
+![alt text](LittleLemon.png)
 
 ## Part 1: Create the menu page
 
